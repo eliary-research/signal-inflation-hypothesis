@@ -1,0 +1,14 @@
+# Timeline of Engagement Signal Deprecation Events
+# Sources: Platform blogs, press coverage, SEC filings
+date,platform,event,signal_affected,type,source
+2011-09-01,Snapchat,Launch with no like button,like,design_choice,"Snapchat founding — no engagement signals by design"
+2016-08-02,Instagram,Stories launched,story_reply,"new_signal","Instagram blog; DM reply as replacement engagement signal"
+2017-05-01,Instagram,Close Friends feature,audience,"audience_restriction","Limited audience → signal value restoration"
+2019-04-30,Instagram,Like count hiding test (Canada),like,deprecation_test,"Instagram blog; Adam Mosseri announcement"
+2019-07-18,Instagram,Like hiding expanded (6 countries),like,deprecation_test,"AU/BR/IE/IT/JP/NZ added"
+2019-11-14,Instagram,Like hiding test (USA),like,deprecation_test,"US market test begins"
+2020-01-15,BeReal,BeReal launches (no likes),like,design_choice,"App launched with zero engagement signals"
+2021-05-26,Instagram,Like hiding global rollout (optional),like,deprecation_global,"Users can choose to hide; default remains visible"
+2021-11-10,YouTube,Public dislike count removed,dislike,deprecation_global,"YouTube blog announcement"
+2022-04-01,Twitter,View count added (under Musk),view,signal_addition,"Counter-trend: adding more visible metrics"
+2023-10-01,Threads,Launch with limited engagement signals,like,design_choice,"No DMs, limited engagement features at launch"
