@@ -1,0 +1,24 @@
+# Facebook Page Organic Reach (% of page followers who see an unpaid post)
+# Sources: Edgerank Checker (2013), Social@Ogilvy (2014), Locowise (2015-2018), industry estimates (2019+)
+# Phase annotations follow the Signal Devaluation Cycle (EN6 framework)
+year,month,organic_reach_pct,source,phase,notes
+2012,6,16.0,edgerank_checker,genuine,"Pre-algorithm era peak"
+2012,12,14.5,edgerank_checker,genuine,"Slight decline as pages proliferate"
+2013,6,12.0,edgerank_checker,inflated,"News Feed algorithm redesign begins"
+2013,12,8.5,edgerank_checker,inflated,"Accelerating decline"
+2014,2,6.15,social_ogilvy,inflated,"Social@Ogilvy 'Facebook Zero' report"
+2014,6,4.5,estimated,inflated,"Continued decline post-IPO monetization"
+2014,12,3.5,estimated,inflated,"Pay-to-play model emerging"
+2015,6,2.6,locowise,inflated_to_toxic,"Pages must pay for reach"
+2015,12,2.3,locowise,toxic,"Free reach functionally dead for large pages"
+2016,6,2.0,locowise,toxic,"Engagement bait rampant"
+2016,12,1.8,locowise,toxic,"Algorithm penalizes engagement bait (too late)"
+2017,6,1.6,locowise,toxic,"'Meaningful interactions' pivot announced"
+2017,12,1.5,locowise,toxic,"News Feed 'friends and family' prioritization"
+2018,6,1.3,estimated,deprecated,"Post-Cambridge Analytica; algorithm tightened"
+2018,12,1.2,estimated,deprecated,"Continued suppression"
+2019,6,1.1,estimated,deprecated,"Organic reach functionally negligible"
+2020,6,1.0,estimated,deprecated,"COVID temporary bump, quickly reversed"
+2021,6,0.9,estimated,deprecated,"Meta rebrand; focus shifts to Reels/Metaverse"
+2022,6,0.8,estimated,deprecated,"TikTok competition; AI-recommended content dominates"
+2023,6,0.7,estimated,deprecated,"Organic reach effectively dead for pages"

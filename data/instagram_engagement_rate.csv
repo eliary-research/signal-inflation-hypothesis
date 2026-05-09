@@ -1,0 +1,17 @@
+# Instagram Average Engagement Rate (Likes + Comments / Followers)
+# Sources: Rival IQ Annual Social Media Benchmark Reports (2016-2025), Socialinsider (2020-2025)
+# Note: Rates are median across all industries. Individual industry rates vary.
+# Phase annotations follow the Signal Devaluation Cycle (EN6 framework)
+year,engagement_rate_pct,source,phase,notes
+2013,4.20,estimated_from_industry,genuine,"Pre-algorithmic feed, high organic reach"
+2014,2.80,estimated_from_industry,genuine_to_inflated,"Algorithm introduction begins"
+2015,1.22,rival_iq_2016,inflated,"First Rival IQ benchmark; L4L culture emerging"
+2016,1.10,rival_iq_2017,inflated,"Stories launched Aug 2016; engagement bait rising"
+2017,0.84,rival_iq_2018,inflated_to_toxic,"Algorithm changes; bot prevalence ~8-12%"
+2018,0.70,rival_iq_2019,toxic,"Mental health research published; posting frequency declining"
+2019,0.60,rival_iq_2020,toxic,"Like-hiding test begins (July); #StatusOfMind impact"
+2020,0.50,rival_iq_2021,toxic_to_deprecated,"Pandemic boost in usage but not engagement rate"
+2021,0.45,rival_iq_2022,deprecated,"Like-hiding global rollout (May); Reels push"
+2022,0.40,rival_iq_2023,deprecated,"Reels dominates feed; photo engagement continues decline"
+2023,0.38,rival_iq_2024,deprecated,"Algorithm heavily favors Reels over static posts"
+2024,0.36,rival_iq_2025,deprecated,"Continued decline; Stories/DM now primary engagement"
