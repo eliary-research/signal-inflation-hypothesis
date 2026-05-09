@@ -1,0 +1,14 @@
+# Platform Signal Design Comparison
+# Categorization of engagement signals by production cost and design philosophy
+platform,primary_signal,signal_cost_level,public_count_visible,has_like,has_story_dm,has_ephemeral,engagement_rate_trend,signal_design_philosophy
+Facebook (2009-2016),Like,1_minimal,yes,yes,no,no,declining,optimize_for_volume
+Facebook (2017+),Reaction+Like,1_minimal,yes,yes,yes,yes,declining,hybrid_volume_and_stories
+Instagram (2010-2016),Like,1_minimal,yes,yes,no,no,declining,optimize_for_volume
+Instagram (2016+),Story DM Reply,3_moderate_high,optional,yes,yes,yes,declining_feed_stable_stories,dual_signal_economy
+Snapchat,Streak+Snap Reply,3_moderate_high,no,no,yes,yes,stable,high_cost_by_design
+TikTok,Algorithm Discovery,1_minimal,yes,yes,no,no,stable_high,algorithm_first_signal_secondary
+BeReal,RealMoji+Comment,2_moderate,no,no,no,partial,high_per_post,radical_deprecation
+Twitter/X,Like+View Count,1_minimal,yes,yes,no,no,declining,signal_maximization
+Reddit,Upvote/Downvote,1_minimal,yes_aggregated,yes,no,no,stable,aggregated_signal
+YouTube,Like (dislike hidden),1_minimal,yes_like_only,yes,no,no,declining_per_view,partial_deprecation
+Pinterest,Save/Pin,2_moderate,yes,no,no,no,stable,curation_signal
