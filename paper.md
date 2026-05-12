@@ -327,7 +327,6 @@ Duffy, B. E., & Hund, E. (2015). "Having it all" on social media: Entrepreneuria
 
 Edgerank Checker. (2013). Facebook has decreased organic reach.
 
-Granger, C. W. J. (1969). Investigating causal relations by econometric models and cross-spectral methods. *Econometrica*, 37(3), 424–438.
 
 Hawi, N. S., & Samaha, M. (2017). The relations among social media addiction, self-esteem, and life satisfaction in university students. *Social Science Computer Review*, 35(5), 576–586.
 
@@ -363,4 +362,3 @@ Wu, T. (2016). *The Attention Merchants.* Vintage Books.
 
 YouTube Blog. (2021, November). An update to dislikes on YouTube.
 
-Zeileis, A., Kleiber, C., Krämer, W., & Hornik, K. (2003). Testing and dating of structural changes in practice. *Computational Statistics & Data Analysis*, 44(1–2), 109–123.
