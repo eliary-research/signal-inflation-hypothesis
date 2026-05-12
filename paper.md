@@ -187,7 +187,7 @@ Three predictions follow:
 
 **P3:** Platforms that structurally maintain signal cost — through design constraints, inherently costly signal mechanics, or both — will exhibit slower engagement rate decline than platforms optimizing for signal volume. Conversely, platforms that reduce signal cost to maximize engagement metrics will accelerate through the devaluation cycle.
 
-*Disclosure: The author is developing one such product (Currot, with an identity-level engagement feature called* ★Keep*) as a structural test of P1–P3. Empirical validation of P1 and P2 — including direct comparison of* ★Keep *signal cost against the like and the story DM reply — will follow in subsequent work.*
+*Disclosure: The author is developing one such product (Currot, with an identity-level engagement feature called* Keep*) as a structural test of P1–P3. Empirical validation of P1 and P2 — including direct comparison of* Keep *signal cost against the like and the story DM reply — will follow in subsequent work.*
 
 ---
 
