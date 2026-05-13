@@ -4,7 +4,7 @@
 
 A working paper on the structural economics of social-media engagement signals — applying Spence's (1973) signaling theory and the monetary-inflation analogy to explain the lifecycle of the Facebook "like" button.
 
-> **Author** · Chanmin Kim · Eliary Inc. · `chanmin@eliary.com`
+> **Author** · Chan Min Park · Eliary Inc. · `chanmin@eliary.com`
 > **Status** · Working paper, v0.2-preprint (May 2026)
 > **License** · Paper + data: CC BY 4.0 · Code: MIT
 
