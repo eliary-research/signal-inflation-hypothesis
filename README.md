@@ -51,9 +51,9 @@ Requires `matplotlib`, `pandas`. No private data dependencies; all sources are p
 If you use this work, please cite:
 
 ```bibtex
-@article{kim2026signalinflation,
+@article{park2026signalinflation,
   title         = {The Signal Inflation Hypothesis: Why Engagement Signals Lose Value and What Replaces Them},
-  author        = {Kim, Chanmin},
+  author        = {Park, Chan Min},
   year          = {2026},
   doi           = {10.5281/zenodo.XXXXXXX},
   url           = {https://github.com/eliary-research/signal-inflation-hypothesis},
