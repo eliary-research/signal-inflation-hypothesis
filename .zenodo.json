@@ -3,7 +3,7 @@
   "description": "<p>The Facebook \"like\" button, introduced in 2009, became the universal unit of social media engagement within two years. Sixteen years later, that unit is in collapse. We introduce the <strong>Signal Inflation Hypothesis</strong>: engagement signals follow a devaluation cycle isomorphic to monetary inflation. Drawing on Spence's (1973) signaling theory, we formalize a four-phase Signal Devaluation Cycle (genuine &rarr; inflated &rarr; toxic &rarr; deprecated), trace the like through all four phases, and demonstrate that signal devaluation precedes platform-level stagnation by 3-5 years across Facebook, Instagram, and Snapchat. We propose a Signal Cost Spectrum mapping engagement signals by production cost, and predict that the next dominant signal will operate at the identity level.</p><p>Working paper, v0.2-preprint (May 2026). 5,500 words, 5 figures, 25 references, 4 public-data CSVs.</p>",
   "creators": [
     {
-      "name": "Kim, Chanmin",
+      "name": "Park, Chan Min",
       "affiliation": "Eliary Inc.",
       "orcid": ""
     }
